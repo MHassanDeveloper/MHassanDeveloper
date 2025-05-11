@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="https://avatars.githubusercontent.com/u/199886839?v=4" target="_blank">
-    <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E🚀%3C/text%3E%3C/svg%3E" alt="Portfolio Logo" width="120">
-  </a>
-</p>
 
-<h1 align="center">Muhammad Hassan Sherazi - Dynamic Developer Portfolio</h1>
+<h1 align="center">Muhammad Hassan Sherazi - Full Stact Mern Developer</h1>
 
 <p align="center">
   <strong>A modern, interactive, and visually captivating showcase of my skills, projects, and journey as a Full Stack Developer.</strong>
@@ -23,7 +19,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
   <img src="https://img.shields.io/badge/Particles.js-000000?style=for-the-badge&logo=particlesjs&logoColor=white" alt="Particles.js">
-  <img src="https://img.shields.io/badge/SwiperJS-007AFF?style=for-the-badge&logo=swiper&logoColor=white" alt="SwiperJS">
+<!--   <img src="https://img.shields.io/badge/SwiperJS-007AFF?style=for-the-badge&logo=swiper&logoColor=white" alt="SwiperJS"> -->
   <img src="https://img.shields.io/badge/Responsive_Design-FF69B4?style=for-the-badge&logo=Mobileoptimize&logoColor=white" alt="Responsive Design">
 </p>
 
