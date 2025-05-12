@@ -1,72 +1,111 @@
-<p align="center">
+# Hi there, I'm Muhammad Hassan Sherazi 👋
 
-<h1 align="center">Muhammad Hassan Sherazi - Full Stact Mern Developer</h1>
+## Full Stack Developer | MERN Specialist | Python Enthusiast | AI Explorer
+---
 
-<p align="center">
-  <strong>A modern, interactive, and visually captivating showcase of my skills, projects, and journey as a Full Stack Developer.</strong>
+I'm a passionate Full Stack Developer specializing in the **MERN stack (MongoDB, Express.js, React, Node.js)** and also proficient in **Python, PHP/Laravel, Next.js**, and various modern web technologies. I thrive on building scalable, efficient, and engaging web applications, transforming ideas into reality with clean, maintainable code.
+
+My journey is fueled by continuous learning, a deep curiosity for solving real-world problems, and what I like to call **"vibe coding"**—blending logic, flow, and creativity into every project.
+`
+---
+
+### 🛠️ Technologies & Tools
+
+Here's a glimpse of the technologies I work with:
+
+**Frontend:**
+<p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
 </p>
 
-<p align="center">
-  <a href="[YOUR_LIVE_DEMO_LINK_HERE]" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live_Demo-亮Green?style=for-the-badge&logo=Rocket.Chat&logoColor=white" alt="View Live Demo">
-  </a>
+**Backend:**
+<p>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
-  <img src="https://img.shields.io/badge/Particles.js-000000?style=for-the-badge&logo=particlesjs&logoColor=white" alt="Particles.js">
-<!--   <img src="https://img.shields.io/badge/SwiperJS-007AFF?style=for-the-badge&logo=swiper&logoColor=white" alt="SwiperJS"> -->
-  <img src="https://img.shields.io/badge/Responsive_Design-FF69B4?style=for-the-badge&logo=Mobileoptimize&logoColor=white" alt="Responsive Design">
+**Databases:**
+<p>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+**Tools & Others:**
+<p>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
+    <img src="https://img.shields.io/badge/-XML_Basic-grey?style=flat-square" alt="XML Basic"/>
+    <img src="https://img.shields.io/badge/-APIs-important?style=flat-square" alt="APIs"/>
+    <img src="https://img.shields.io/badge/-SEO_Basic-blue?style=flat-square" alt="SEO Basic"/>
+    <img src="https://img.shields.io/badge/-Responsive_Design-brightgreen?style=flat-square" alt="Responsive Design"/>
+    <img src="https://img.shields.io/badge/-Figma_to_Code-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma to Code"/>
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+    <img src="https://img.shields.io/badge/-Video_Editing-red?style=flat-square" alt="Video Editing"/>
 </p>
 
 ---
 
-## 🌟 Welcome to My Digital Space!
+### ✨ Featured Projects
 
-This isn't just a portfolio; it's a carefully crafted experience designed to introduce you to my world of web development. Dive in to explore my capabilities, the projects I've poured my passion into, and the path I've taken to become the developer I am today.
+Here are a few projects I've worked on:
 
-> **My Goal:** To build elegant, efficient, and impactful web solutions that solve real-world problems and delight users.
+1.  **Xpert Fans**
+    *   *Description:* An e-commerce website for various types of fans, fully responsive with contact and feedback forms. Built with a focus on user experience and smooth navigation.
+    *   *Tech:* `Bootstrap 5`, `JavaScript`, `jQuery`, `AOS Animation`, `HTML5`, `CSS3`
+    *   *Repo:* [**GitHub**](https://github.com/MHassanDeveloper/Xpert-Fans)
+
+2.  **The World Of Ai**
+    *   *Description:* An informative website explaining Artificial Intelligence concepts and how it works, designed to be engaging and easy to understand.
+    *   *Tech:* `HTML5`, `CSS3`, `JavaScript`, `AOS Animation`
+    *   *Repo:* [**GitHub**](https://github.com/MHassanDeveloper/Ai)
+
+3.  **Sherazi Watch**
+    *   *Description:* A concept for a luxury watch store allowing users to purchase and customize watches, featuring smooth animations powered by GSAP for a premium feel.
+    *   *Tech:* `HTML5`, `CSS3`, `JavaScript`, `GSAP`
+    *   *Repo:* [**GitHub**](https://github.com/MHassanDeveloper/Sherazi-Watch)
+
+---
+
+### 🚀 My Journey
+
+My path into development started with foundational web technologies learned through formal education (**Sindh Board Matric**, **Aptech**) and extensive self-study via online resources (YouTube channels like **Code With Harry**, **Shreyans Coding School**, **Apna College**). I've progressively built expertise in:
+
+-   Backend: Node.js/Express, PHP/Laravel
+-   Frontend: React, Next.js, jQuery
+-   Animation: GSAP
+-   Databases: MongoDB, MySQL
+-   Languages: JavaScript, Python, TypeScript
+
+I'm committed to continuous learning and currently diving deeper into **AI, Machine Learning, Deep Learning, Data Science**, and **Data Analysis**.
+
+---
+### 📫 Get In Touch
+
+Let's connect! You can reach me through the following channels:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hassan-sherazi-67559834a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/MHassanDeveloper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:mhassansherazi152@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://wa.me/03703491729" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/sheraziofficial0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+*   **Email:** `mhassansherazi152@gmail.com`
 
 ---
 
-## ✨ Core Features & Highlights
-
-This portfolio is packed with features to provide an engaging and informative experience:
-
-*   🎨 **Visually Stunning Design:**
-    *   **Hero Section:** Captivating animated gradient background with interactive Particles.js.
-    *   **Parallax Backgrounds:** Subtle depth and immersion across various sections.
-    *   **Sleek UI:** Modern aesthetics with a carefully chosen color palette and typography (Inter font).
-*   🚀 **Dynamic Interactions & Animations:**
-    *   **Preloader:** A smooth entry with a custom loader animation.
-    *   **Typed.js Introduction:** An animated typing effect in the hero section to showcase my roles.
-    *   **GSAP & ScrollTrigger:** Sophisticated scroll-based animations for elements appearing on screen.
-    *   **Tilt.js Effects:** Interactive 3D tilt effect on skill and project cards, adding a touch of magic.
-    *   **Swiper.js Slider:** An elegant coverflow slider for testimonials/focus areas.
-*   📱 **Flawlessly Responsive:**
-    *   Adapts seamlessly to all screen sizes – from large desktops to mobile devices.
-    *   Mobile-first considerations with a dedicated collapsible navigation menu.
-*   📄 **Comprehensive Sections:**
-    *   **Home (Hero):** A grand welcome and introduction.
-    *   **Skills:** A detailed grid showcasing my technical proficiencies with visual icons.
-    *   **Projects:** An impressive display of my work, with image previews, tags, descriptions, and a modal for in-depth details.
-    *   **Journey (Timeline):** A chronological narrative of my educational and learning milestones.
-    *   **Focus In Coding (Testimonials):** Insights into my development philosophy and approach.
-    *   **Connections (Contact):** Easy access to my social and professional profiles.
-*   NAVIGATION **Intuitive Navigation:**
-    *   **Sticky Header:** Remains accessible as you scroll.
-    *   **Active Link Highlighting:** Clearly indicates your current section.
-    *   **Floating Action Button (FAB):** Quick jump to any section with stylish icons.
-    *   **Back-to-Top Button:** Effortlessly return to the start.
-*   🔍 **SEO Optimized:**
-    *   Thoughtful meta tags for improved search engine visibility.
-*   💡 **Project Modal:**
-    *   Click "View Details" on a project to see an enlarged image, detailed description, tech tags, and a direct link to the live site/repository.
-*   🛠️ **Clean & Well-Structured Code:**
-    *   Semantic HTML, well-organized CSS with custom properties, and modular JavaScript.
-
----
+Thanks for visiting my profile! Let's connect and build something amazing together. ✨
