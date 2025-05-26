@@ -57,10 +57,10 @@
 <p align="left">
   <a href="https://www.instagram.com/sheraziofficial0/" target="_blank"><img height = "55px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
   <a href="https://www.facebook.com/hassan.aslam.60964" target="_blank"><img height = " 55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s"/></a>
-  <a href="https://www.linkedin.com/in/hassan-sherazi-67559834a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tiktok.com/@hassanaslam42" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="mailto:mhassansherazi152@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MHassanDeveloper" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hassan-sherazi-67559834a/" target="_blank"><img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"/></a>
+  <a href="https://tiktok.com/@hassanaslam42" target="_blank"><img height = "55px" src="https://yt3.googleusercontent.com/n2F5svHzfGDDEIRWDKt6WF_jeJqwzba7NTKx5lbVzNVa9lKnK5iVT1pH824C-g76IRzWR1_hjA=s900-c-k-c0x00ffffff-no-rj"/></a>
+ <img title = "mhassansherazi152@gmail.com" height = "55px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/60/30/17603013-85fe-ee33-90ed-f9ccd95c28c5/logo_gmail_2020q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220-0.png/1200x600wa.png"/>
+  <a href="https://github.com/MHassanDeveloper" target="_blank"><img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEJOLvmB_jgIRwoTlBewFuAkjpttBAqOLdw&s"/></a>
 </p>
 
 ---
