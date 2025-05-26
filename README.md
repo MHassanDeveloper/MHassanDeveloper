@@ -11,7 +11,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🧑‍💻 I’m a **First-Year Student** currently studying at **Aptech**.
+- I’m a **First-Year Student** currently studying at **Aptech**.
 - 🌐 I’m a **Full Stack Web Developer** with a strong command of front-end and back-end technologies.
 - 🚀 I’m diving deeper into **Data Science, Machine Learning, Deep Learning, and Data Analysis**.
 
@@ -20,27 +20,25 @@
 ### 🛠️ My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMS-FF5722?style=for-the-badge&logo=drupal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SEO-00C853?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hosting-4285F4?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editing-Videos%20&%20Photos-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img height = "50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"/>
+  <img height = "50px"  src="https://cdn-icons-png.flaticon.com/512/16020/16020753.png"/>
+  <img  height = "50px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s"/>
+  <img height = "50px" src="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png"/>
+  <img height = "60px"  src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png"/>
+  <img  height = "50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
+  <img height = "65px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6FYnMwbFvkzhVBxiqbCQI9HP-3z-hlJ32g&s"/>
+  <img  height = "55px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwP0dmzoioDyFfHXUPPGmQ2EyN9vmLbn_POg&s"/>
+  <img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqFwGNDUq26UO_RvtLR_wVS4GFHOeXA2r0w&s"/>
+  <img height = "55px" src="https://libraries.mit.edu/app/uploads/sites/4/2016/09/pythonlogo.jpg"/>
+  <img height = "60px" src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png"/>
+  <img height = "55px" src="https://miro.medium.com/v2/resize:fit:1024/1*6OyPS7QkuWmMPPslpJobZQ.png"/>
+  <img height = "55px" src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png"/>
+  <img  height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-qTtBHdfvRpm9vvB5yRe9UJQn1YuvutDjA&s"/>
+  <img height = "65px" src="https://rackset.com/wp-content/uploads/2018/11/website-hosting-mean.jpg"/>
+  <img height = "55px" src="https://gotrialpro.com/wp-content/uploads/edd/2024/07/Figma-Free-Plan.png"/>
+  <img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"/>
+  <img height = "55px" src="https://miro.medium.com/v2/resize:fit:1125/1*dDNpLKu_oTLzStsDTnkJ-g.png"/>
+  <img height = "55px" src="https://lh3.googleusercontent.com/proxy/0ialh9WyIk2CbFkL1xUL_sIOqN2kwNzd7JZBugmSgMNPoO9R0nN8g4DI64_US8dmlQQuExiWFx1RLPUsEbhr9laqkrK_9LM1fJGKyE2GhHK_xGoxJkiYYSfw2HPvZ1dWQ80VSg2DNiBjIayGk39TVjYr1irZwzPMhGFcy1tChWS0-3F1jPT-F2e-"/>
 </p>
 
 ---
@@ -57,8 +55,8 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.instagram.com/sheraziofficial0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/hassan.aslam.60964" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sheraziofficial0/" target="_blank"><img height = "55px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
+  <a href="https://www.facebook.com/hassan.aslam.60964" target="_blank"><img height = " 55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s"/></a>
   <a href="https://www.linkedin.com/in/hassan-sherazi-67559834a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://tiktok.com/@hassanaslam42" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="mailto:mhassansherazi152@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
