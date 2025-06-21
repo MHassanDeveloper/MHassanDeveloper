@@ -2,75 +2,98 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Illustration of a person coding on a computer" width="400"/>
 </div>
 
+<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=20C20E¢er=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Diving+into+Data+Science;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</div>
+
 <hr>
 
-<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
-<h3 align="center">A Full Stack Web Developer & Tech Enthusiast</h3>
+### 👨‍💻 About Me
 
----
+- 🎓 I’m a **First-Year Student** currently studying at **Aptech**.
+- 🚀 I am a passionate **Full Stack Web Developer** with a love for creating dynamic and user-friendly web applications.
+- 🧠 I’m currently expanding my skills into the exciting fields of **Data Science, Machine Learning, and Deep Learning**.
+- 🌱 I believe in continuous learning and am always looking for new challenges to tackle.
 
-### 👨‍🎓 About Me
-
-- I’m a **First-Year Student** currently studying at **Aptech**.
-- 🌐 I’m a **Full Stack Web Developer** with a strong command of front-end and back-end technologies.
-- 🚀 I’m diving deeper into **Data Science, Machine Learning, Deep Learning, and Data Analysis**.
-
----
+<hr>
 
 ### 🛠️ My Skills
 
 <p align="center">
-  <img height = "50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"/>
-  <img height = "50px"  src="https://cdn-icons-png.flaticon.com/512/16020/16020753.png"/>
-  <img  height = "50px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s"/>
-  <img height = "50px" src="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png"/>
-  <img height = "60px"  src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png"/>
-  <img  height = "50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
-  <img height = "65px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6FYnMwbFvkzhVBxiqbCQI9HP-3z-hlJ32g&s"/>
-  <img  height = "55px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwP0dmzoioDyFfHXUPPGmQ2EyN9vmLbn_POg&s"/>
-  <img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqFwGNDUq26UO_RvtLR_wVS4GFHOeXA2r0w&s"/>
-  <img height = "55px" src="https://libraries.mit.edu/app/uploads/sites/4/2016/09/pythonlogo.jpg"/>
-  <img height = "60px" src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png"/>
-  <img height = "55px" src="https://miro.medium.com/v2/resize:fit:1024/1*6OyPS7QkuWmMPPslpJobZQ.png"/>
-  <img height = "55px" src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png"/>
-  <img  height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-qTtBHdfvRpm9vvB5yRe9UJQn1YuvutDjA&s"/>
-  <img height = "65px" src="https://rackset.com/wp-content/uploads/2018/11/website-hosting-mean.jpg"/>
-  <img height = "55px" src="https://gotrialpro.com/wp-content/uploads/edd/2024/07/Figma-Free-Plan.png"/>
-  <img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s"/>
-  <img height = "55px" src="https://miro.medium.com/v2/resize:fit:1125/1*dDNpLKu_oTLzStsDTnkJ-g.png"/>
-  <img height = "55px" src="https://lh3.googleusercontent.com/proxy/0ialh9WyIk2CbFkL1xUL_sIOqN2kwNzd7JZBugmSgMNPoO9R0nN8g4DI64_US8dmlQQuExiWFx1RLPUsEbhr9laqkrK_9LM1fJGKyE2GhHK_xGoxJkiYYSfw2HPvZ1dWQ80VSg2DNiBjIayGk39TVjYr1irZwzPMhGFcy1tChWS0-3F1jPT-F2e-"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="50" alt="HTML5"  style="margin: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/16020/16020753.png" height="50" alt="CSS3" style="margin: 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s" height="50" alt="Sass" style="margin: 10px;"/>
+  <img src="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png" height="50" alt="JavaScript" style="margin: 10px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" height="55" alt="React" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" alt="Bootstrap" style="margin: 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6FYnMwbFvkzhVBxiqbCQI9HP-3z-hlJ32g&s" height="60" alt="jQuery" style="margin: 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwP0dmzoioDyFfHXUPPGmQ2EyN9vmLbn_POg&s" height="50" alt="PHP" style="margin: 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqFwGNDUq26UO_RvtLR_wVS4GFHOeXA2r0w&s" height="50" alt="Laravel" style="margin: 10px;"/>
+  <img src="https://libraries.mit.edu/app/uploads/sites/4/2016/09/pythonlogo.jpg" height="50" alt="Python" style="margin: 10px;"/>
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" height="55" alt="WordPress" style="margin: 10px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1024/1*6OyPS7QkuWmMPPslpJobZQ.png" height="50" alt="MySQL" style="margin: 10px;"/>
+  <img src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png" height="50" alt="API" style="margin: 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-qTtBHdfvRpm9vvB5yRe9UJQn1YuvutDjA&s" height="50" alt="Git" style="margin: 10px;"/>
+  <img src="https://gotrialpro.com/wp-content/uploads/edd/2024/07/Figma-Free-Plan.png" height="50" alt="Figma" style="margin: 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" height="50" alt="GitHub" style="margin: 10px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1125/1*dDNpLKu_oTLzStsDTnkJ-g.png" height="50" alt="Postman" style="margin: 10px;"/>
+  <img src="https://lh3.googleusercontent.com/proxy/0ialh9WyIk2CbFkL1xUL_sIOqN2kwNzd7JZBugmSgMNPoO9R0nN8g4DI64_US8dmlQQuExiWFx1RLPUsEbhr9laqkrK_9LM1fJGKyE2GhHK_xGoxJkiYYSfw2HPvZ1dWQ80VSg2DNiBjIayGk39TVjYr1irZwzPMhGFcy1tChWS0-3F1jPT-F2e-" height="50" alt="C Language" style="margin: 10px;"/>
 </p>
 
----
+<hr>
 
 ### 📚 Currently Learning
 
-- 📊 Data Science
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📈 Data Analysis
+- 📊 **Data Science:** Exploring data to find meaningful insights.
+- 🤖 **Machine Learning:** Building intelligent models that learn from data.
+- 🧠 **Deep Learning:** Working with neural networks for complex problems.
+- 📈 **Data Analysis:** Turning raw data into actionable stories.
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.instagram.com/sheraziofficial0/" target="_blank"><img height = "55px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/></a>
-  <a href="https://www.facebook.com/hassan.aslam.60964" target="_blank"><img height = " 55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s"/></a>
-  <a href="https://www.linkedin.com/in/hassan-sherazi-67559834a/" target="_blank"><img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"/></a>
-  <a href="https://tiktok.com/@hassanaslam42" target="_blank"><img height = "55px" src="https://yt3.googleusercontent.com/n2F5svHzfGDDEIRWDKt6WF_jeJqwzba7NTKx5lbVzNVa9lKnK5iVT1pH824C-g76IRzWR1_hjA=s900-c-k-c0x00ffffff-no-rj"/></a>
- <img title = "mhassansherazi152@gmail.com" height = "55px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/60/30/17603013-85fe-ee33-90ed-f9ccd95c28c5/logo_gmail_2020q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220-0.png/1200x600wa.png"/>
-  <a href="https://github.com/MHassanDeveloper" target="_blank"><img height = "55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEJOLvmB_jgIRwoTlBewFuAkjpttBAqOLdw&s"/></a>
-</p>
-
----
+<hr>
 
 ### 💼 My Projects
 
-1. 🔗 [Weather Checker](https://github.com/MHassanDeveloper/Weather-Checker) — API-based weather checking app.
-2. 🔗 [Xpert Fans](https://github.com/MHassanDeveloper/Xpert-Fans) — A professional e-commerce fans website.
-3. 🔗 [Sherazi Watch](https://github.com/MHassanDeveloper/Sherazi-Watch) — Luxury watch brand website.
+Here are a few projects I've worked on. Check them out on my GitHub!
 
----
+| Project Name                                                   | Description                                  |
+| -------------------------------------------------------------- | -------------------------------------------- |
+| 🔗 [**Weather Checker**](https://github.com/MHassanDeveloper/Weather-Checker) | An API-based app to check weather conditions. |
+| 🔗 [**Xpert Fans**](https://github.com/MHassanDeveloper/Xpert-Fans)          | A professional e-commerce website for fans.  |
+| 🔗 [**Sherazi Watch**](https://github.com/MHassanDeveloper/Sherazi-Watch)       | A sleek website for a luxury watch brand.    |
 
-### 🌟 Thanks for Visiting 🥰
+<hr>
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/MHassanDeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hassan-sherazi-67559834a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/sheraziofficial0/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/hassan.aslam.60964" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://tiktok.com/@hassanaslam42" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="mailto:mhassansherazi152@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MHassanDeveloper&label=Profile%20Visitors&color=20C20E&style=flat-square" alt="Profile visitor counter"/>
+</div>
+
+<h3 align="center">🌟 Thanks for visiting my profile! 🌟</h3>
