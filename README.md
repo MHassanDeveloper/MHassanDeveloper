@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Illustration of a person coding on a computer" width="400"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Illustration of a person coding on a computer" width="400" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
@@ -36,7 +36,8 @@
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" alt="Git" style="margin: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="GitHub" style="margin: 10px;"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-128.png" alt="Figma" style="margin: 10px;"/>
-
+  <img src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" alt="Figma" style="margin: 10px;"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/server-it-2/64/14-Hosting-128.png" style="margin: 10px;"/>
 </p>
 
 <hr>
