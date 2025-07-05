@@ -24,24 +24,19 @@
 ### 🛠️ My Skills
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="50" alt="HTML5"  style="margin: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/16020/16020753.png" height="50" alt="CSS3" style="margin: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s" height="50" alt="Sass" style="margin: 10px;"/>
-  <img src="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png" height="50" alt="JavaScript" style="margin: 10px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" height="55" alt="React" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" alt="Bootstrap" style="margin: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6FYnMwbFvkzhVBxiqbCQI9HP-3z-hlJ32g&s" height="60" alt="jQuery" style="margin: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwP0dmzoioDyFfHXUPPGmQ2EyN9vmLbn_POg&s" height="50" alt="PHP" style="margin: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqFwGNDUq26UO_RvtLR_wVS4GFHOeXA2r0w&s" height="50" alt="Laravel" style="margin: 10px;"/>
-  <img src="https://libraries.mit.edu/app/uploads/sites/4/2016/09/pythonlogo.jpg" height="50" alt="Python" style="margin: 10px;"/>
-  <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" height="55" alt="WordPress" style="margin: 10px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1024/1*6OyPS7QkuWmMPPslpJobZQ.png" height="50" alt="MySQL" style="margin: 10px;"/>
-  <img src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png" height="50" alt="API" style="margin: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-qTtBHdfvRpm9vvB5yRe9UJQn1YuvutDjA&s" height="50" alt="Git" style="margin: 10px;"/>
-  <img src="https://gotrialpro.com/wp-content/uploads/edd/2024/07/Figma-Free-Plan.png" height="50" alt="Figma" style="margin: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" height="50" alt="GitHub" style="margin: 10px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1125/1*dDNpLKu_oTLzStsDTnkJ-g.png" height="50" alt="Postman" style="margin: 10px;"/>
-  <img src="https://lh3.googleusercontent.com/proxy/0ialh9WyIk2CbFkL1xUL_sIOqN2kwNzd7JZBugmSgMNPoO9R0nN8g4DI64_US8dmlQQuExiWFx1RLPUsEbhr9laqkrK_9LM1fJGKyE2GhHK_xGoxJkiYYSfw2HPvZ1dWQ80VSg2DNiBjIayGk39TVjYr1irZwzPMhGFcy1tChWS0-3F1jPT-F2e-" height="50" alt="C Language" style="margin: 10px;"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png"  style="margin: 10px;"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="CSS3" style="margin: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" style="margin: 10px;"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-128.png"  alt="React" style="margin: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" style="margin: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="PHP" style="margin: 10px;"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/256/laravel-128.png" alt="Laravel" style="margin: 10px;"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Wordpress-128.png" alt="WordPress" style="margin: 10px;"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png" alt="MySQL" style="margin: 10px;"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" alt="Git" style="margin: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="GitHub" style="margin: 10px;"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-128.png" alt="Figma" style="margin: 10px;"/>
+
 </p>
 
 <hr>
