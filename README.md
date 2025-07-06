@@ -24,20 +24,25 @@
 ### 🛠️ My Skills
 
 <p align="center">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png"  style="margin: 10px;"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" alt="CSS3" style="margin: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" style="margin: 10px;"/>
-  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-128.png"  alt="React" style="margin: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" style="margin: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="PHP" style="margin: 10px;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/256/laravel-128.png" alt="Laravel" style="margin: 10px;"/>
-  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Wordpress-128.png" alt="WordPress" style="margin: 10px;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png" alt="MySQL" style="margin: 10px;"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" alt="Git" style="margin: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="GitHub" style="margin: 10px;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-128.png" alt="Figma" style="margin: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/10701/10701004.png" alt="Figma" style="margin: 10px;"/>
-  <img src="https://cdn0.iconfinder.com/data/icons/server-it-2/64/14-Hosting-128.png" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=20909&format=png"  style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=4PiNHtUJVbLs&format=png" alt="CSS3" style="margin: 10px;"/>
+  <img width = "85px" src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" alt="CSS3" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=108784&format=png" alt="JavaScript" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=100&id=40253&format=png" alt="JavaScript" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" alt="Bootstrap" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=XNQU0Xcm2I9s&format=png" alt="PHP" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=lRjcvhvtR81o&format=png" alt="Laravel" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=13664&format=png" alt="WordPress" style="margin: 10px;"/>
+  <img width = "95px" src="https://img.icons8.com/?size=160&id=6or30FVdPylJ&format=png" alt="WordPress" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=RlIXjuTUrwoX&format=png" style="margin: 10px;"/>
+  
+  <img src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" alt="MySQL" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=20906&format=png" alt="Git" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" alt="GitHub" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=W0YEwBDDfTeu&format=png" alt="Figma" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=12814&format=png" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=96&id=qxQNCYAbz0tt&format=png" style="margin: 10px;"/>
 </p>
 
 <hr>
